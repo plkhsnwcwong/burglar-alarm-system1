@@ -1,4 +1,4 @@
-# 防盜小保鑣 (1號 Micro:bit)
+# 防盜小保鑣 (1號 Micro:bit) 接收訊號
 
 ## Step 1
 
